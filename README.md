@@ -1,5 +1,5 @@
 # nuti_agents_enfermedad
 Tarea NUTI HPC y Multiagentes
 
-#Integrantes
+# Integrantes
 Cristian Camilo Lavao Buritica
